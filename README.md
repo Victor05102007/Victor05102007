@@ -12,8 +12,8 @@
 </div>
 <br>
 <br>
-### Tech Stack 👨‍💻
 <div align="center">
+  <h2>Tech Stack 👨‍💻</h2>
 Back-end: &ensp;
 <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="30" height="30"/> &ensp;
 Front-end: &ensp;
