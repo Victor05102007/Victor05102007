@@ -13,7 +13,7 @@
 <br>
 <br>
 <div align= "center">
-  <img src="https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/kyurem.gif" width="300 height="300">
+  <img src="https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/kyurem.gif" width="300" height="300">
 </div>
 <br>
 <br>
