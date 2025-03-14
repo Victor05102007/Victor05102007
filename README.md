@@ -10,3 +10,16 @@
     🎮 <strong>( + ) Gamer;</strong> <br>
     🎶 <strong>Amo ouvir músicas;</strong> <br>
 </div>
+<br>
+<br>
+### Tech Stack 👨‍💻
+<div align="center">
+Back-end: &ensp;
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="30" height="30"/> &ensp;
+Front-end: &ensp;
+<img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="30" height="30"/> &ensp;
+Code Version: &ensp;
+<img src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png" width="30" height="30"/>&ensp;
+<img src="https://cdn-icons-png.flaticon.com/512/779/779088.png" width="30" height="30"/>
+</div>
+
