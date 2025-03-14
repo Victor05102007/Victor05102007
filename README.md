@@ -8,8 +8,5 @@
   <h2><img src="https://cdn-icons-png.flaticon.com/512/3706/3706499.png" width="25" height="25" alt="Imagem icon sobre" />   Sobre </h2>
     👨🏻‍💼  Futuro estudante de direito;  <br>
     🎮 <strong>( + ) Gamer;</strong> <br>
-    💻 Steam1 https://steamcommunity.com/id/steamdotikizera/ <br>
-    🎮 Steam2 https://steamcommunity.com/id/tikizer4/ <br>
-    💻 Steam3 https://steamcommunity.com/id/coetikizin/ <br>
     🎶 <strong>Amo ouvir músicas;</strong> <br>
 </div>
