@@ -25,6 +25,6 @@ Code Version: &ensp;
 <br>
 <br>
 <div align= "center">
-  <img src="https://64.media.tumblr.com/tumblr_m65jtiVfAy1qe9gz1o1_250.gif" width="300" height="300"
+  <img src="https://tenor.com/bVgxS.gif" width="320" height="300"
 </div>
 
