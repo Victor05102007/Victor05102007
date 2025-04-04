@@ -1,5 +1,5 @@
 <div align= "center">
-  <img src="https://media.tenor.com/y6ko93COrOQAAAAj/reshiram-pokemon-reshiram.gif" width="300" height="300" alt="Texto alternativo">
+  <img src="https://media.tenor.com/y6ko93COrOQAAAAj/reshiram-pokemon-reshiram.gif" width="320" height="300" alt="Texto alternativo">
 </div>
 
 <br>
