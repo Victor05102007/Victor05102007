@@ -25,6 +25,6 @@ Code Version: &ensp;
 <br>
 <br>
 <div align= "center">
-  <img src="https://media.tenor.com/9JOXyFRaUfcAAAAj/zekrom-pokemon.gif" width="320" height="300"
+  <img src="https://i.gifer.com/origin/c1/c17b2c8a098fd0a40297ac81df8acdb7_w200.gif" width="320" height="300"
 </div>
 
